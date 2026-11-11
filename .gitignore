@@ -1,0 +1,14 @@
+# залежності та збірка
+node_modules/
+bin/
+obj/
+dist/
+
+# секрети та локальні налаштування
+.env
+*.key
+
+# IDE та ОС
+.vs/
+.idea/
+.DS_Store

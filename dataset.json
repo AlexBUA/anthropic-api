@@ -1,0 +1,310 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "85",
+      "goal": "muscle gain and strength building",
+      "restrictions": "vegan (no animal products)"
+    },
+    "solution_criteria": [
+      "Meal plan meets or exceeds 3000 calories for the day",
+      "All meals and snacks are vegan-compliant with no animal products",
+      "Includes complete protein sources or combinations providing all 9 essential amino acids in adequate quantities for muscle building"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Vegan bodybuilder needing 3000+ calories with complete amino acid profiles"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "78",
+      "goal": "Build muscle mass for competitive swimming",
+      "restrictions": "Severe peanut allergy, lactose intolerance"
+    },
+    "solution_criteria": [
+      "All meals are free from peanuts and dairy products",
+      "Daily meal plan includes at least 150g of protein distributed across meals",
+      "Plan is practical and completable within one day"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Athlete with severe peanut allergy and lactose intolerance requiring high-protein meals"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Prepare for a half-marathon race in 3 weeks with optimal energy and recovery",
+      "restrictions": "Celiac disease - gluten-free only"
+    },
+    "solution_criteria": [
+      "All meals and snacks are certified gluten-free or naturally gluten-free",
+      "Daily carbohydrate intake supports endurance running (approximately 6-8g per kg body weight)",
+      "Meal plan spans one full day with breakfast, lunch, dinner, and snacks included"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Celiac disease runner requiring gluten-free options with adequate carbohydrates"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "75",
+      "goal": "Build muscle and improve athletic performance",
+      "restrictions": "Nut allergy, shellfish allergy, egg allergy"
+    },
+    "solution_criteria": [
+      "All meals avoid nuts, shellfish, and eggs",
+      "Meal plan includes at least 3 diverse non-allergenic protein sources (e.g., chicken, fish, legumes, dairy, beef)",
+      "Daily plan covers breakfast, lunch, dinner, and snacks with appropriate caloric distribution for an athlete"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Athlete with nut allergy, shellfish allergy, and egg allergy seeking diverse protein sources"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "72",
+      "goal": "Maintain stable blood sugar levels while optimizing performance for competitive soccer matches",
+      "restrictions": "Type 2 diabetes, must avoid high glycemic index foods, no refined sugars"
+    },
+    "solution_criteria": [
+      "All meals feature low glycemic index carbohydrates paired with protein and healthy fats",
+      "Meal plan provides adequate calories and macronutrients to support soccer performance",
+      "Plan avoids refined sugars and high glycemic index foods throughout the day",
+      "Includes practical meal timing suitable for training and match schedules"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Diabetic soccer player balancing low glycemic index foods with athletic performance"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "75",
+      "goal": "Endurance training while maintaining ketogenic diet with minimal carbohydrate intake",
+      "restrictions": "Ketogenic diet (maximum 50g carbs per day), no grains, no sugar, no legumes"
+    },
+    "solution_criteria": [
+      "Meal plan spans exactly one full day with breakfast, lunch, dinner, and snacks",
+      "All meals and snacks comply with ketogenic restrictions (\u226450g total carbs)",
+      "Meals are appropriate for endurance athlete training with adequate protein and healthy fats",
+      "Meal plan is realistic and uses commonly available whole foods"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Ketogenic diet follower training for endurance events with minimal carbs"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "82",
+      "goal": "High-intensity endurance training with muscle maintenance",
+      "restrictions": "Kosher-observant (no pork, shellfish, or non-kosher meat; no mixing meat and dairy; no leavened products if Passover observance applies)"
+    },
+    "solution_criteria": [
+      "Meal plan provides approximately 3,200-3,500 calories distributed across breakfast, lunch, and dinner to support high-intensity training",
+      "All foods comply with kosher dietary laws (no prohibited animals, no meat-dairy mixing)",
+      "Includes adequate protein (1.6-2.0g per kg body weight) from kosher sources to support muscle maintenance"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Kosher-observant athlete with high-intensity training caloric requirements"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "72",
+      "goal": "Build muscle and endurance for competitive swimming",
+      "restrictions": "Pescatarian (no meat except fish), must include iron-rich alternatives"
+    },
+    "solution_criteria": [
+      "Meal plan includes only pescatarian foods with fish as the only animal protein source",
+      "All meals incorporate iron-rich plant-based alternatives (legumes, leafy greens, fortified grains, nuts, seeds)",
+      "Plan covers all three meals and meets typical caloric/macronutrient needs for a 72kg athlete with swimming goals"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Pescatarian swimmer avoiding all meat except fish with iron-rich alternatives"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "75",
+      "goal": "Maintain energy levels during endurance training while managing IBS symptoms",
+      "restrictions": "Low-FODMAP diet required due to IBS; avoid garlic, onions, wheat, high-fructose fruits, and dairy"
+    },
+    "solution_criteria": [
+      "All meals and snacks comply with low-FODMAP guidelines and listed restrictions",
+      "Meal plan provides adequate carbohydrates and protein to support endurance training energy needs",
+      "Plan spans a full day with breakfast, lunch, dinner, and appropriate snacks"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Athlete with IBS requiring low-FODMAP foods that support energy levels"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "78",
+      "goal": "High-performance nutrition for sprint training with minimal sodium intake",
+      "restrictions": "Low-sodium diet (maximum 1,500mg sodium per day) due to hypertension management"
+    },
+    "solution_criteria": [
+      "Meal plan totals approximately 3,000-3,500 calories appropriate for an elite sprinter's energy needs",
+      "All meals and snacks keep total daily sodium below 1,500mg",
+      "Plan includes adequate protein (1.6-2.0g per kg body weight) to support muscle recovery and performance",
+      "Meals are practical and realistic for an athlete's training schedule"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Elite sprinter on a low-sodium diet for medical reasons combined with performance nutrition"
+  },
+  {
+    "prompt_inputs": {
+      "height": "175 cm",
+      "weight": "68 kg",
+      "goal": "Build muscle and improve athletic performance for competitive soccer",
+      "restrictions": "Cannot eat hard or sticky foods due to orthodontic braces"
+    },
+    "solution_criteria": [
+      "All meals and snacks avoid hard foods (nuts, hard candy, raw vegetables) and sticky foods (caramel, taffy, dried fruit)",
+      "Meal plan provides adequate protein and calories to support muscle building for a teenage athlete",
+      "Plan includes breakfast, lunch, dinner, and snacks distributed throughout the day",
+      "All foods are soft, easy to chew, and braces-friendly"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Teenage athlete with orthodontic braces avoiding hard and sticky foods"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "75",
+      "goal": "High-intensity endurance cycling training with 3-4 hour rides",
+      "restrictions": "Paleo diet: no grains, legumes, dairy, or processed foods"
+    },
+    "solution_criteria": [
+      "Meal plan spans a full day with breakfast, lunch, dinner, and snacks",
+      "All meals and snacks comply with paleo restrictions (no grains, legumes, dairy, or processed foods)",
+      "Macronutrient composition supports endurance cycling performance with adequate carbohydrates from whole foods and protein for recovery"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Endurance cyclist following a paleo diet excluding grains and legumes"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "85",
+      "goal": "muscle building for weightlifting competition",
+      "restrictions": "halal-compliant only"
+    },
+    "solution_criteria": [
+      "All foods and ingredients are halal-certified or halal-compliant",
+      "Meal plan includes appropriate macronutrient distribution for muscle building (high protein, adequate carbohydrates and fats)",
+      "Meal plan covers all three meals plus snacks for a full day",
+      "Caloric intake and macronutrient quantities are realistic for an 85kg weightlifter's goals"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Halal-compliant weightlifter needing muscle-building macronutrient distribution"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "72",
+      "goal": "Build muscle and improve endurance for competitive cycling",
+      "restrictions": "vegan and low-FODMAP diet"
+    },
+    "solution_criteria": [
+      "Meal plan covers all three meals and includes snacks with adequate protein (minimum 1.6g per kg body weight) from vegan sources suitable for low-FODMAP",
+      "All foods listed are both vegan and low-FODMAP compliant with no high-FODMAP ingredients",
+      "Meals support the stated athletic goal of muscle building and endurance"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Low-FODMAP and vegan athlete with limited options seeking complete nutrition"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "82",
+      "goal": "Recovery from knee surgery with adequate protein intake for tissue healing",
+      "restrictions": "Soft food textures only, no hard or crunchy foods, no dairy due to lactose intolerance"
+    },
+    "solution_criteria": [
+      "Meal plan includes only soft-textured foods appropriate for post-surgery recovery",
+      "All meals meet dietary restrictions (soft textures and no dairy)",
+      "Plan provides adequate protein content to support surgical recovery and muscle maintenance",
+      "Meals are realistic, practical, and can be prepared by someone with limited mobility"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Athlete recovering from surgery with soft food texture requirements and caloric needs"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "75",
+      "goal": "High-performance training for competitive swimming with 8,000+ calories daily expenditure",
+      "restrictions": "Citrus allergy (no oranges, lemons, limes, grapefruits), GERD/reflux disease (avoid acidic, spicy, fatty foods and caffeine)"
+    },
+    "solution_criteria": [
+      "Meal plan avoids all citrus fruits and citrus-containing products",
+      "All foods have neutral to alkaline pH (no acidic or highly acidic items)",
+      "Plan provides sufficient calories and protein for competitive swimmer's energy needs",
+      "No trigger foods for reflux disease (spicy, fried, caffeinated, high-fat items)"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Competitive swimmer with citrus allergy and reflux disease requiring neutral pH foods"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "72",
+      "goal": "Build muscle and improve endurance for competitive cycling",
+      "restrictions": "Plant-based diet, soy allergy, no animal products"
+    },
+    "solution_criteria": [
+      "Meal plan covers all three meals and includes soy-free plant-based protein sources (legumes, nuts, seeds, grains)",
+      "Daily protein intake is adequate for muscle-building goals (approximately 1.6-2.0g per kg body weight)",
+      "All meals are fully plant-based with no animal products",
+      "Plan is practical and realistic for one day"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Plant-based athlete with soy allergy needing alternative protein substitutes"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "72 kg",
+      "goal": "High-performance triathlon training with optimal recovery",
+      "restrictions": "Anti-inflammatory diet, no nightshade vegetables (tomatoes, peppers, eggplant, potatoes)"
+    },
+    "solution_criteria": [
+      "Meal plan covers all three meals for one day with appropriate caloric intake for an endurance athlete",
+      "All meals avoid nightshade vegetables and incorporate anti-inflammatory foods (fatty fish, leafy greens, berries, turmeric, ginger)",
+      "Plan includes adequate protein, carbohydrates, and healthy fats to support triathlon training and recovery"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Triathlete following anti-inflammatory diet avoiding nightshade vegetables"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "75",
+      "goal": "muscle maintenance and endurance performance",
+      "restrictions": "histamine intolerance - avoid fermented foods (yogurt, cheese, soy sauce), aged meats (deli meats, cured bacon), aged fish, fermented vegetables (sauerkraut, kimchi), and high-histamine foods (tomatoes, avocado, spinach)"
+    },
+    "solution_criteria": [
+      "Meal plan covers all three meals and includes only fresh, unfermented foods that comply with histamine intolerance restrictions",
+      "Plan provides adequate protein and calories appropriate for a 75kg athlete focused on muscle maintenance",
+      "No fermented, aged, or high-histamine foods are included in any meal"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Athlete with histamine intolerance avoiding fermented and aged foods"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "68",
+      "goal": "Complete a 100km ultra-marathon while maintaining energy levels and recovery",
+      "restrictions": "Raw food diet only (uncooked, unprocessed plant-based foods)"
+    },
+    "solution_criteria": [
+      "Meal plan covers all three meals and includes calorie/macronutrient targets appropriate for ultra-endurance training",
+      "All foods listed are raw, uncooked, and align with raw food dietary restrictions",
+      "Plan addresses performance needs (carbohydrates for endurance, protein for recovery, healthy fats for sustained energy)"
+    ],
+    "task_description": "Generate a one-day meal plan for an athlete that meets their dietary restrictions.",
+    "scenario": "Ultra-endurance runner on raw food diet meeting performance and safety standards"
+  }
+]
